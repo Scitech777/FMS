@@ -1,6 +1,6 @@
 # Unit Testing
 
-FMS includes a suite of MPI unit tests using the testing infrastructure included in the GNU autotools build system
+MS includes a suite of MPI unit tests using the testing infrastructure included in the GNU autotools build system
 in order to check the functionality of the library's modules.
 
 It consists of programs in the test_fms/ directory, with shell scripts to handle directory set up and input files.
